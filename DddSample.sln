@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DddSample", "DddSample\DddSample.csproj", "{EEF50B76-9184-4FF5-B8DC-7AF49A7EE9C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{CD817869-E61C-40E2-AB10-AAF7AA68A8DF}"
+	ProjectSection(SolutionItems) = preProject
+		References\DddFramework.dll = References\DddFramework.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF50B76-9184-4FF5-B8DC-7AF49A7EE9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF50B76-9184-4FF5-B8DC-7AF49A7EE9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF50B76-9184-4FF5-B8DC-7AF49A7EE9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF50B76-9184-4FF5-B8DC-7AF49A7EE9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
